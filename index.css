@@ -2144,7 +2144,7 @@
   font-family: pc-icon;
   font-weight: bold;
   font-size: 13px;
-  color: #f60;
+  color: #0174be;
 }
 .panel > .panel-header > .panel-header-label {
   color: #fff;
@@ -2155,7 +2155,7 @@
   font-family: pc-icon;
   font-weight: bold;
   font-size: 13px;
-  color: #f60;
+  color: #0174be;
   padding: 4px;
   flex-grow: 0;
   flex-shrink: 0;
@@ -2163,7 +2163,7 @@
   text-align: center;
 }
 .panel .panel-header-button svg {
-  color: #f60;
+  color: #0174be;
 }
 .panel .panel-header-button:hover {
   color: #ff9900;
@@ -2221,7 +2221,7 @@
   border-radius: 2px;
 }
 .menu-row > .pcui-boolean-input.pcui-boolean-input-ticked {
-  background-color: #f60;
+  background-color: #0174be;
 }
 .menu-row > .pcui-boolean-input.pcui-boolean-input-ticked::after {
   color: #fff;
@@ -2366,7 +2366,7 @@
   background-color: #b3aaac;
 }
 #view-panel > .view-panel-row > .view-panel-row-toggle.pcui-boolean-input-ticked {
-  background-color: #f60;
+  background-color: #0174be;
 }
 #view-panel > .view-panel-row > .view-panel-row-toggle.pcui-boolean-input-ticked::after {
   background-color: white;
@@ -2637,7 +2637,7 @@
 }
 .bottom-toolbar-tool.active {
   color: white;
-  background-color: #f60 !important;
+  background-color: #0174be !important;
 }
 .bottom-toolbar-tool.active svg {
   color: white;
@@ -2650,10 +2650,10 @@
 }
 
 .bottom-toolbar-toggle.active::before {
-  color: #f60;
+  color: #0174be;
 }
 .bottom-toolbar-toggle.active svg {
-  color: #f60;
+  color: #0174be;
 }
 
 #right-toolbar {
@@ -2711,7 +2711,7 @@
 }
 #right-toolbar > .right-toolbar-tool.active {
   color: white;
-  background-color: #f60 !important;
+  background-color: #0174be !important;
 }
 #right-toolbar > .right-toolbar-tool.active svg {
   color: white;
@@ -2723,10 +2723,10 @@
   color: #7c7678;
 }
 #right-toolbar > .right-toolbar-toggle.active::before {
-  color: #f60;
+  color: #0174be;
 }
 #right-toolbar > .right-toolbar-toggle.active svg {
-  color: #f60;
+  color: #0174be;
 }
 
 #select-toolbar {
@@ -2897,7 +2897,7 @@
 }
 #popup #popup-dialog #popup-buttons .popup-button:hover {
   color: #fff;
-  background-color: #f60;
+  background-color: #0174be;
 }
 
 #mode-toggle {
@@ -2921,10 +2921,10 @@
   display: none;
 }
 #mode-toggle #centers-icon {
-  color: #f60;
+  color: #0174be;
 }
 #mode-toggle #rings-icon {
-  color: #f60;
+  color: #0174be;
 }
 #mode-toggle:hover {
   color: #fff;
@@ -3163,7 +3163,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #f60;
+  background: #0174be;
 }
 
 ::-webkit-scrollbar-corner {

@@ -1,6 +1,6 @@
 {
-    "name": "3DGS Viewer",
-    "short_name": "3DGS Viewer",
+    "name": "Mirukuru 3DGS Viewer",
+    "short_name": "Mirukuru 3DGS Viewer",
     "description": "Editor for manipulating and optimizing 3D Gaussian Splats.",
     "display": "fullscreen",
     "start_url": "./",
